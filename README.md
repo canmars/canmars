@@ -1,1 +1,1 @@
-👋 Hi, I’m @canmars, i’m interested in data analysis.
+👋 Hi, I’m just @canmars.
