@@ -2,15 +2,14 @@
 
 **Yönetim Bilişim Sistemleri Öğrencisi** · İzmir / Bursa, Türkiye
 
-Yönetim bilişim sistemleri, veri analitiği, karar destek sistemleri ve
-kamu bilişimi üzerine çalışıyorum.
+Yönetim bilişim sistemleri, veri analitiği ve karar destek sistemleri üzerine çalışıyorum.
 
 Gerçek problemlere yönelik web uygulamaları, dashboard'lar ve bilgi sistemleri
 geliştiriyorum. Özellikle veri odaklı karar verme, dijital dönüşüm ve
 coğrafi bilgi sistemleri ilgilendiğim alanlar arasında.
 
 Dokuz Eylül Üniversitesi
-Yönetim Bilişim Sistemleri (2023–2027)
+Yönetim Bilişim Sistemleri
 
 ---
 
