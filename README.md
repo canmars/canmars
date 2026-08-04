@@ -8,9 +8,6 @@ Gerçek problemlere yönelik web uygulamaları, dashboard'lar ve bilgi sistemler
 geliştiriyorum. Özellikle veri odaklı karar verme, dijital dönüşüm ve
 coğrafi bilgi sistemleri ilgilendiğim alanlar arasında.
 
-Dokuz Eylül Üniversitesi
-Yönetim Bilişim Sistemleri
-
 ---
 
 # Projeler
